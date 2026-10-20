@@ -1,4 +1,4 @@
-[![pypi](https://img.shields.io/pypi/v/pybind11-stubgen.svg?logo=PyPI&logoColor=white)](https://pypi.org/project/pybind11-stubgen/)
+[![pypi](https://img.shields.io/pypi/v/pybind11-stubgen.svg?logo=PyPI&logoColor=E5E4E2&style=flat&labelColor=000000&color=66023C)](https://pypi.org/project/pybind11-stubgen/)
 
 About
 -----
